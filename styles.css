@@ -1,0 +1,41 @@
+body{
+	Background:#e08d40;
+	max-width:800px;
+	margin:auto;
+}
+
+#header{
+	position:fixed;
+	top:0px;
+	left:0px;
+	width:100%;
+	display: flex;
+	align-items:center;
+	background:#e04048;
+}
+
+#header-img{
+	height:75px; 
+	width:auto;
+	max-width:100%;
+}
+
+#nav-bar{
+	font-size:30px;
+	margin-left:10vw;
+}
+
+.nav-link{
+	text-decoration: none;
+	margin-left:50px;
+	margin-right:50px;
+}
+
+#updates{
+	margin-top:5vw;
+}
+
+#productinfoimg{
+	height: auto; 
+	width: 100px;
+}
